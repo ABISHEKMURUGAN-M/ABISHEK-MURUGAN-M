@@ -1,0 +1,6 @@
+{
+  "name": "Auctronix Live",
+  "description": "Real-time smart auction platform with live bidding, local simulated multiplayer, player/item management, and budget tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
